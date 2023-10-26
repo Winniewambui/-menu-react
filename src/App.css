@@ -18,15 +18,16 @@ main {
   text-transform: capitalize;
 }
 
-.title h1 {
-  font-size: 45px;
+.title h2 {
+  font-size: 5vmin;
   text-transform: capitalize;
 }
 
 .underline {
   display: inline-block;
-  width: 90px;
+  width: 100px;
   height: 3px;
+  margin-top: -15px;
   background-color: rgb(240, 205, 5);
 }
 
